@@ -1,3 +1,2 @@
 # PLODELTA
-WoodSwordChallenge
-1.2
+thisVersion is 1.2
