@@ -1,2 +1,2 @@
 # PLODELTA
-thisVersion is 1.2
+NicknamesPlugin:1.0
