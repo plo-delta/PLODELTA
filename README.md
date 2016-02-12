@@ -1,2 +1,2 @@
 # PLODELTA
-NicknamesPlugin:1.0
+NicknamesPlugin:1.1
